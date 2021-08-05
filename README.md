@@ -1,11 +1,16 @@
 # supermall   vue购物商城
 
-## 安装
+## 克隆项目
 ```
-npm install
+git clone https://github.com/guoxingcheng1/supermall
+```
+
+## 安装依赖
+```
+npm install / yarn install
 ```
 
 ### 运行
 ```
-npm run serve
+npm run serve / yarn serve
 ```
